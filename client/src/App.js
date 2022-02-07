@@ -1,9 +1,17 @@
 import React from 'react';
 
+// * COMPS
+import Mobile from './Components/Mobile';
+
+// * CSS 
+import './CSS/Mobile.css'
+
 
 function App() {
   return (
-    <dic className="nothing">Hello World</dic>
+    <div className='App'>
+      <Mobile/>
+    </div>
   );
 }
 
