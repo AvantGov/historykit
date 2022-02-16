@@ -12,6 +12,7 @@
     background: linear-gradient(45deg, rgba(57,62,68,1) 4%, rgba(205,194,179,1) 52%, rgba(57,62,68,0.7762237762237763) 96%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#393e44",endColorstr="#393e44",GradientType=1);
 }
+
 .MobileApp__container {
     border: 2px solid black;
     height: 100%;
